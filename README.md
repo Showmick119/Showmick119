@@ -37,6 +37,7 @@ Welcome to my GitHub profile! I’m a tech enthusiast passionate about building 
 ### **Languages**
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat-square)
+![C++](https://img.shields.io/badge/-C++-blue?logo=c%2B%2B&logoColor=white&style=flat-square)
 ![SQL](https://img.shields.io/badge/-SQL-lightblue?logo=postgresql&logoColor=white&style=flat-square)
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=flat-square)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat-square)
@@ -52,8 +53,13 @@ Welcome to my GitHub profile! I’m a tech enthusiast passionate about building 
 ![Pandas](https://img.shields.io/badge/-Pandas-purple?logo=pandas&logoColor=white&style=flat-square)
 ![NumPy](https://img.shields.io/badge/-NumPy-blue?logo=numpy&logoColor=white&style=flat-square)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?logo=matplotlib&logoColor=white&style=flat-square)
+![Seaborn](https://img.shields.io/badge/-Seaborn-lightblue?logo=python&logoColor=white&style=flat-square)
 ![Folium](https://img.shields.io/badge/-Folium-green?logo=python&logoColor=white&style=flat-square)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-red?logo=streamlit&logoColor=white&style=flat-square)
+![Flask](https://img.shields.io/badge/-Flask-black?logo=flask&logoColor=white&style=flat-square)
+![Django](https://img.shields.io/badge/-Django-darkgreen?logo=django&logoColor=white&style=flat-square)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?logo=bootstrap&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-blue?logo=tailwind-css&logoColor=white&style=flat-square)
 
 ### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazonaws&logoColor=white&style=flat-square)
