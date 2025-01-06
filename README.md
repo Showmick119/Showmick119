@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I’m a tech enthusiast passionate about building 
 - **Tech Stack**: Python, Streamlit, Pandas, Matplotlib, Plotly, Google Generative AI.  
 - **Key Features**:  
   - AI-driven chatbot providing tailored weather insights and reports.  
-  - Real-time weather visualizations using Plotly.  
+  - Real-time weather visualizations using Matplotlib and Plotly.  
   - Integration with the OpenWeather API for accurate forecasts and data analysis.  
 
 ---
@@ -60,8 +60,8 @@ Welcome to my GitHub profile! I’m a tech enthusiast passionate about building 
 ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white&style=flat-square)
 ![Pandas](https://img.shields.io/badge/-Pandas-purple?logo=pandas&logoColor=white&style=flat-square)
 ![NumPy](https://img.shields.io/badge/-NumPy-blue?logo=numpy&logoColor=white&style=flat-square)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?logo=matplotlib&logoColor=white&style=flat-square)
 ![Plotly](https://img.shields.io/badge/-Plotly-lightblue?logo=plotly&logoColor=white&style=flat-square)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?logo=matplotlib&logoColor=white&style=flat-square)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-lightblue?logo=python&logoColor=white&style=flat-square)
 ![Folium](https://img.shields.io/badge/-Folium-green?logo=python&logoColor=white&style=flat-square)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-red?logo=streamlit&logoColor=white&style=flat-square)
