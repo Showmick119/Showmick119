@@ -69,7 +69,7 @@ Welcome to my GitHub profile! I’m a tech enthusiast passionate about building 
 ---
 
 ## 🔍 Beyond Code
-- ⚽ Sports enthusiast following Soccer, Cricket and UFC
+- ⚽ Sports enthusiast following Soccer, Cricket, NBA and UFC
 - ✈️ Passionate traveler exploring cultures and cuisines.
 - 📚 Always learning new tech and frameworks to stay ahead.
 
