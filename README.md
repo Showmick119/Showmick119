@@ -30,6 +30,14 @@ Welcome to my GitHub profile! I’m a tech enthusiast passionate about building 
   - Real-time alerts for high-crime areas.
   - Interactive heatmaps and emergency SOS button.
   - Feature enabling users to select specific areas and analyze recent crime incidents
+ 
+### 🌦️ [AtmosAI](https://github.com/Showmick119/AtmosAI.git)  
+- **Description**: An AI-powered application combining real-time weather analysis with an interactive chatbot.  
+- **Tech Stack**: Python, Streamlit, Pandas, Matplotlib, Plotly, Google Generative AI.  
+- **Key Features**:  
+  - AI-driven chatbot providing tailored weather insights and reports.  
+  - Real-time weather visualizations using Plotly.  
+  - Integration with the OpenWeather API for accurate forecasts and data analysis.  
 
 ---
 
@@ -53,6 +61,7 @@ Welcome to my GitHub profile! I’m a tech enthusiast passionate about building 
 ![Pandas](https://img.shields.io/badge/-Pandas-purple?logo=pandas&logoColor=white&style=flat-square)
 ![NumPy](https://img.shields.io/badge/-NumPy-blue?logo=numpy&logoColor=white&style=flat-square)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?logo=matplotlib&logoColor=white&style=flat-square)
+![Plotly](https://img.shields.io/badge/-Plotly-lightblue?logo=plotly&logoColor=white&style=flat-square)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-lightblue?logo=python&logoColor=white&style=flat-square)
 ![Folium](https://img.shields.io/badge/-Folium-green?logo=python&logoColor=white&style=flat-square)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-red?logo=streamlit&logoColor=white&style=flat-square)
