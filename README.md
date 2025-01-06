@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I’m a tech enthusiast passionate about building 
 ---
 
 ## 🚀 Projects
-### 🌐 [CarbonLens](https://github.com/Showmick119/CarbonLens.git)
+### ♻️ [CarbonLens](https://github.com/Showmick119/CarbonLens.git)
 - **Description**: An AI-powered dashboard analyzing the sustainability of automotive manufacturers.
 - **Tech Stack**: Python, Matplotlib, Pandas, Streamlit, Hugging Face Transformers.
 - **Key Features**:
@@ -38,14 +38,21 @@ Welcome to my GitHub profile! I’m a tech enthusiast passionate about building 
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat-square)
 ![SQL](https://img.shields.io/badge/-SQL-lightblue?logo=postgresql&logoColor=white&style=flat-square)
+![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=flat-square)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat-square)
 
 ### **Frameworks & Libraries**
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-orange?logo=scikit-learn&logoColor=white&style=flat-square)
+![PyTorch](https://img.shields.io/badge/-PyTorch-red?logo=pytorch&logoColor=white&style=flat-square)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?logo=tensorflow&logoColor=white&style=flat-square)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-orange?logo=huggingface&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/-React.js-blue?logo=react&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white&style=flat-square)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-orange?logo=huggingface&logoColor=white&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white&style=flat-square)
 ![Pandas](https://img.shields.io/badge/-Pandas-purple?logo=pandas&logoColor=white&style=flat-square)
+![NumPy](https://img.shields.io/badge/-NumPy-blue?logo=numpy&logoColor=white&style=flat-square)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?logo=matplotlib&logoColor=white&style=flat-square)
+![Folium](https://img.shields.io/badge/-Folium-green?logo=python&logoColor=white&style=flat-square)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-red?logo=streamlit&logoColor=white&style=flat-square)
 
 ### **Cloud & DevOps**
