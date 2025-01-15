@@ -7,8 +7,8 @@ Welcome to my GitHub profile! I’m a tech enthusiast passionate about building 
 ---
 
 ## 🧑‍💻 About Me
-- 🌟 **Current Focus**: Building data-driven platforms and AI-powered tools.
-- 🌍 **Passionate About**: Sustainability, AI for Good, and innovative solutions.
+- 🌟 **Current Focus**: Building data-driven platforms and AI-powered tools and conducting ML Research.
+- 🌍 **Passionate About**: Sustainability, AI for Good, and innovative research.
 - 🎯 **Goal**: To merge my technical skills with impactful projects that make a difference.
 - 📫 **Let's Connect**: [LinkedIn](https://www.linkedin.com/in/showmick-das/) | [Email](mailto:sdas412@gatech.edu)
 
@@ -67,8 +67,6 @@ Welcome to my GitHub profile! I’m a tech enthusiast passionate about building 
 ![Streamlit](https://img.shields.io/badge/-Streamlit-red?logo=streamlit&logoColor=white&style=flat-square)
 ![Flask](https://img.shields.io/badge/-Flask-black?logo=flask&logoColor=white&style=flat-square)
 ![Django](https://img.shields.io/badge/-Django-darkgreen?logo=django&logoColor=white&style=flat-square)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?logo=bootstrap&logoColor=white&style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-blue?logo=tailwind-css&logoColor=white&style=flat-square)
 
 ### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazonaws&logoColor=white&style=flat-square)
