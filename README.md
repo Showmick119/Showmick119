@@ -1,6 +1,6 @@
 # Hi there, I'm Showmick Das 👋
 
-🎓 **Undergraduate at Georgia Tech** | 💻 **Aspiring Machine Learning Engineer** | 🌍 **Passionate about Sustainability and Innovation**
+🎓 **Undergraduate Researcher at Georgia Tech** | 💻 **Aspiring Machine Learning Engineer** | 🌍 **Passionate about Sustainability and Innovation**
 
 Welcome to my GitHub profile! I’m a tech enthusiast passionate about building impactful applications involving Machine Learning, Full-Stack Development, and Data Analytics. I love leveraging technology to solve real-world problems and contribute to a sustainable future.
 
