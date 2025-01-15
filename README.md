@@ -44,9 +44,10 @@ Welcome to my GitHub profile! I’m a tech enthusiast passionate about building 
 ## 🔧 Skills
 ### **Languages**
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat-square)
+![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat-square)
-![C++](https://img.shields.io/badge/-C++-blue?logo=c%2B%2B&logoColor=white&style=flat-square)
 ![SQL](https://img.shields.io/badge/-SQL-lightblue?logo=postgresql&logoColor=white&style=flat-square)
+![MATLAB](https://img.shields.io/badge/-MATLAB-blue?logo=mathworks&logoColor=white&style=flat-square)
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=flat-square)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat-square)
 
