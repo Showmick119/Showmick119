@@ -1,4 +1,4 @@
-# Hi there, I'm Showmick Das.
+# Hi, I'm Showmick Das.
 
 🎓 **Undergraduate at Georgia Tech** | 💻 **Aspiring Machine Learning Engineer** | 🌍 **Passionate about Sustainability and Innovation**
 
