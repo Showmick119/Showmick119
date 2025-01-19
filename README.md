@@ -47,7 +47,6 @@ Welcome to my GitHub profile. I’m a tech enthusiast passionate about building 
 ![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat-square)
 ![SQL](https://img.shields.io/badge/-SQL-lightblue?logo=postgresql&logoColor=white&style=flat-square)
-![MATLAB](https://img.shields.io/badge/-MATLAB-blue?logo=mathworks&logoColor=white&style=flat-square)
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=flat-square)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat-square)
 
@@ -58,7 +57,6 @@ Welcome to my GitHub profile. I’m a tech enthusiast passionate about building 
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-orange?logo=huggingface&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/-React.js-blue?logo=react&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white&style=flat-square)
-![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white&style=flat-square)
 ![Pandas](https://img.shields.io/badge/-Pandas-purple?logo=pandas&logoColor=white&style=flat-square)
 ![NumPy](https://img.shields.io/badge/-NumPy-blue?logo=numpy&logoColor=white&style=flat-square)
 ![Plotly](https://img.shields.io/badge/-Plotly-lightblue?logo=plotly&logoColor=white&style=flat-square)
