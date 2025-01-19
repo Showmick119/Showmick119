@@ -68,14 +68,14 @@ Welcome to my GitHub profile. I’m a tech enthusiast passionate about building 
 ![Django](https://img.shields.io/badge/-Django-darkgreen?logo=django&logoColor=white&style=flat-square)
 
 ### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/-AWS-orange?logo=amazonaws&logoColor=white&style=flat-square)
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-blue?logo=microsoft-azure&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white&style=flat-square)
 
 ---
 
 ## 🔍 Beyond Code
-- ⚽ Sports enthusiast following Soccer, Cricket, NBA and UFC
+- ⚽ Sports enthusiast following Soccer, Cricket, NBA and UFC.
 - ✈️ Passionate traveler exploring cultures and cuisines.
 - 📚 Always learning new tech and frameworks to stay ahead.
 
