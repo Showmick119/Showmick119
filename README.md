@@ -51,23 +51,20 @@ Welcome to my GitHub profile. I’m a tech enthusiast passionate about building 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-orange?logo=mathworks&logoColor=white&style=flat-square)
 ![SQL](https://img.shields.io/badge/-SQL-lightblue?logo=postgresql&logoColor=white&style=flat-square)
-![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=flat-square)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat-square)
 
 ### **Frameworks & Libraries**
+![CUDA](https://img.shields.io/badge/-CUDA-76B900?logo=nvidia&logoColor=white&style=flat-square)
+![Kokkos](https://img.shields.io/badge/-Kokkos-002856?logo=c%2b%2b&logoColor=white&style=flat-square)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-orange?logo=scikit-learn&logoColor=white&style=flat-square)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-red?logo=pytorch&logoColor=white&style=flat-square)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?logo=tensorflow&logoColor=white&style=flat-square)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-orange?logo=huggingface&logoColor=white&style=flat-square)
-![CUDA](https://img.shields.io/badge/-CUDA-76B900?logo=nvidia&logoColor=white&style=flat-square)
-![Kokkos](https://img.shields.io/badge/-Kokkos-002856?logo=c%2b%2b&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/-React.js-blue?logo=react&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white&style=flat-square)
 ![Pandas](https://img.shields.io/badge/-Pandas-purple?logo=pandas&logoColor=white&style=flat-square)
 ![NumPy](https://img.shields.io/badge/-NumPy-blue?logo=numpy&logoColor=white&style=flat-square)
 ![Plotly](https://img.shields.io/badge/-Plotly-lightblue?logo=plotly&logoColor=white&style=flat-square)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?logo=matplotlib&logoColor=white&style=flat-square)
-![Seaborn](https://img.shields.io/badge/-Seaborn-lightblue?logo=python&logoColor=white&style=flat-square)
 ![Folium](https://img.shields.io/badge/-Folium-green?logo=python&logoColor=white&style=flat-square)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-red?logo=streamlit&logoColor=white&style=flat-square)
 ![Flask](https://img.shields.io/badge/-Flask-black?logo=flask&logoColor=white&style=flat-square)
@@ -76,7 +73,6 @@ Welcome to my GitHub profile. I’m a tech enthusiast passionate about building 
 ### **Cloud & DevOps**
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-blue?logo=microsoft-azure&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white&style=flat-square)
 
 ---
 
