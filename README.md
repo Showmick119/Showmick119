@@ -23,14 +23,6 @@ Welcome to my GitHub profile. I’m a tech enthusiast passionate about building 
   - Advanced data visualizations and time-series analysis.
   - NLP sentiment analysis from Reddit discussions and manufacturer sustainability reports.
 
-### 🛡️ [GeoGuard](https://github.com/Showmick119/GeoGuard.git)
-- **Description**: A safety-focused web application designed to enhance personal safety in Atlanta.
-- **Tech Stack**: React.js, Node.js, MongoDB, Folium, Google Maps API.
-- **Key Features**:
-  - Real-time alerts for high-crime areas.
-  - Interactive heatmaps and emergency SOS button.
-  - Feature enabling users to select specific areas and analyze recent crime incidents
- 
 ### 🦕 [JurassIQ](https://github.com/Showmick119/JurrasIQ)  
 - **Description**: An AI-powered archaeology platform that assists excavation planning and fossil analysis using machine learning and geospatial intelligence.  
 - **Tech Stack**: TensorFlow, YOLOv11, Python, OpenCV, Streamlit.  
@@ -40,13 +32,24 @@ Welcome to my GitHub profile. I’m a tech enthusiast passionate about building 
   - Fine-tuned MobileNetV2 on synthetic and real fossil datasets to classify species and assess value.  
   - Visualized over 240,000 excavation data points on an interactive world map.
 
+### 🧑‍🎓 [ClassLinker](https://github.com/Showmick119/ClassLinker)  
+- **Description**: A web app that connects Georgia Tech students based on their class schedules to promote academic collaboration.  
+- **Tech Stack**: React.js, Django, PostgreSQL, JavaScript, WebSockets.  
+- **Key Features**:  
+  - Allows students to input schedules, find classmates, and join class-specific chatrooms.  
+  - Real-time messaging system for study groups and project discussions.  
+  - Backend built with Django and PostgreSQL to manage schedule and chat data.  
+  - Planned expansion for a friend system to compare schedules and coordinate sessions.
+
 ---
 
 ## 🔧 Skills
 ### **Languages**
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat-square)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![MATLAB](https://img.shields.io/badge/-MATLAB-orange?logo=mathworks&logoColor=white&style=flat-square)
 ![SQL](https://img.shields.io/badge/-SQL-lightblue?logo=postgresql&logoColor=white&style=flat-square)
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white&style=flat-square)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white&style=flat-square)
@@ -56,6 +59,8 @@ Welcome to my GitHub profile. I’m a tech enthusiast passionate about building 
 ![PyTorch](https://img.shields.io/badge/-PyTorch-red?logo=pytorch&logoColor=white&style=flat-square)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?logo=tensorflow&logoColor=white&style=flat-square)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-orange?logo=huggingface&logoColor=white&style=flat-square)
+![CUDA](https://img.shields.io/badge/-CUDA-76B900?logo=nvidia&logoColor=white&style=flat-square)
+![Kokkos](https://img.shields.io/badge/-Kokkos-002856?logo=c%2b%2b&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/-React.js-blue?logo=react&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white&style=flat-square)
 ![Pandas](https://img.shields.io/badge/-Pandas-purple?logo=pandas&logoColor=white&style=flat-square)
