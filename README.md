@@ -31,13 +31,14 @@ Welcome to my GitHub profile. I’m a tech enthusiast passionate about building 
   - Interactive heatmaps and emergency SOS button.
   - Feature enabling users to select specific areas and analyze recent crime incidents
  
-### 🌦️ [AtmosAI](https://github.com/Showmick119/AtmosAI.git)  
-- **Description**: An AI-powered application combining real-time weather analysis with an interactive chatbot.  
-- **Tech Stack**: Python, Streamlit, Pandas, Matplotlib, Plotly, Google Generative AI.  
+### 🦕 [JurassIQ](https://github.com/Showmick119/JurrasIQ)  
+- **Description**: An AI-powered archaeology platform that assists excavation planning and fossil analysis using machine learning and geospatial intelligence.  
+- **Tech Stack**: TensorFlow, YOLOv11, Python, OpenCV, Streamlit.  
 - **Key Features**:  
-  - AI-driven chatbot providing tailored weather insights and reports.  
-  - Real-time weather visualizations using Matplotlib and Plotly.  
-  - Integration with the OpenWeather API for accurate forecasts and data analysis.  
+  - Built a model to predict fossil-rich excavation hotspots based on geospatial and historical data.  
+  - Generated structured excavation plans, estimating cost, logistics, and duration.  
+  - Fine-tuned MobileNetV2 on synthetic and real fossil datasets to classify species and assess value.  
+  - Visualized over 240,000 excavation data points on an interactive world map.
 
 ---
 
