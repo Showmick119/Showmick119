@@ -53,7 +53,7 @@ Welcome to my GitHub profile. I’m a tech enthusiast passionate about building 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![SQL](https://img.shields.io/badge/-SQL-lightblue?logo=postgresql&logoColor=white&style=flat-square)
 
-### **Frameworks & Libraries**
+### **Frameworks, Libraries & HPC Tools**
 ![CUDA](https://img.shields.io/badge/-CUDA-76B900?logo=nvidia&logoColor=white&style=flat-square)
 ![Kokkos](https://img.shields.io/badge/-Kokkos-002856?logo=c%2b%2b&logoColor=white&style=flat-square)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-orange?logo=scikit-learn&logoColor=white&style=flat-square)
