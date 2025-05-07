@@ -58,18 +58,15 @@ Welcome to my GitHub profile. I’m a tech enthusiast passionate about building 
 ![Kokkos](https://img.shields.io/badge/-Kokkos-002856?logo=c%2b%2b&logoColor=white&style=flat-square)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-orange?logo=scikit-learn&logoColor=white&style=flat-square)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-red?logo=pytorch&logoColor=white&style=flat-square)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?logo=tensorflow&logoColor=white&style=flat-square)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-orange?logo=huggingface&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/-React.js-blue?logo=react&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white&style=flat-square)
 ![Pandas](https://img.shields.io/badge/-Pandas-purple?logo=pandas&logoColor=white&style=flat-square)
 ![NumPy](https://img.shields.io/badge/-NumPy-blue?logo=numpy&logoColor=white&style=flat-square)
-![Plotly](https://img.shields.io/badge/-Plotly-lightblue?logo=plotly&logoColor=white&style=flat-square)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue?logo=matplotlib&logoColor=white&style=flat-square)
 ![Folium](https://img.shields.io/badge/-Folium-green?logo=python&logoColor=white&style=flat-square)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-red?logo=streamlit&logoColor=white&style=flat-square)
 ![Flask](https://img.shields.io/badge/-Flask-black?logo=flask&logoColor=white&style=flat-square)
-![Django](https://img.shields.io/badge/-Django-darkgreen?logo=django&logoColor=white&style=flat-square)
 
 ### **Cloud & DevOps**
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-blue?logo=microsoft-azure&logoColor=white&style=flat-square)
