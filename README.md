@@ -1,9 +1,5 @@
 # Hi, I'm Showmick Das.
 
-$$
-J(w, b) = \frac{1}{2m} \sum_{i=1}^{m} (f_{w,b}(x^{(i)}) - y^{(i)})^2
-$$
-
 🎓 **Undergraduate at Georgia Tech** | 💻 **Aspiring Machine Learning Engineer** | 🌍 **Passionate about Sustainability and Innovation**
 
 Welcome to my GitHub profile. I’m a tech enthusiast passionate about building impactful applications involving Machine Learning, High Performance Computing, Full-Stack Development, and Data Science.
