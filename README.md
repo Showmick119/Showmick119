@@ -1,5 +1,9 @@
 # Hi, I'm Showmick Das.
 
+$$
+f(x) = \frac{1}{\sigma\sqrt{2\pi}}e^{-\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^2}
+$$
+
 🎓 **Undergraduate at Georgia Tech** | 💻 **Aspiring Machine Learning Engineer** | 🌍 **Passionate about Sustainability and Innovation**
 
 Welcome to my GitHub profile. I’m a tech enthusiast passionate about building impactful applications involving Machine Learning, High Performance Computing, Full-Stack Development, and Data Science.
