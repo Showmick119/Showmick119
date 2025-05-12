@@ -43,7 +43,7 @@ Welcome to my GitHub profile. I’m a tech enthusiast passionate about building 
 
 ---
 
-<div align="center" style="background-color:#0d1117;padding:10px;border-radius:10px">
+<div style="background-color:#0d1117;padding:10px;border-radius:10px">
 
 ## 📊 Most Used Languages
 
