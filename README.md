@@ -43,6 +43,11 @@ Welcome to my GitHub profile. I’m a tech enthusiast passionate about building 
 
 ---
 
+# Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Showmick119&layout=compact)
+
+---
+
 ## 🔧 Skills
 ### **Languages**
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat-square)
