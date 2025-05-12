@@ -47,7 +47,7 @@ Welcome to my GitHub profile. I’m a tech enthusiast passionate about building 
 
 ## 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Showmick119&layout=compact&theme=github_dark)
 
 </div>
 
