@@ -43,10 +43,6 @@ Welcome to my GitHub profile. I’m a tech enthusiast passionate about building 
 
 ---
 
-![Showmick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Showmick119&show_icons=true&theme=tokyonight&count_private=true)
-
----
-
 <div style="background-color:#0d1117;padding:10px;border-radius:10px">
 
 ## 📊 Most Used Languages
