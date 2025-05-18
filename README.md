@@ -62,7 +62,7 @@ Welcome to my GitHub profile. I’m a tech enthusiast passionate about building 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 
-### **Frameworks, Libraries & HPC Tools**
+### **Frameworks & HPC Tools**
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-orange?logo=scikit-learn&logoColor=white&style=flat-square)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-red?logo=pytorch&logoColor=white&style=flat-square)
 ![CUDA](https://img.shields.io/badge/-CUDA-76B900?logo=nvidia&logoColor=white&style=flat-square)
