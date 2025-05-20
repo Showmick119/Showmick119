@@ -43,17 +43,7 @@ Welcome to my GitHub profile. I’m a tech enthusiast passionate about building 
 
 ---
 
-<div style="background-color:#0d1117;padding:10px;border-radius:10px">
-
-## 📊 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Showmick119&layout=compact&theme=github_dark)
-
-</div>
-
----
-
-## 🔧 Skills
+## 🔧 Technical Skills
 ### **Languages**
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-red?logo=java&logoColor=white&style=flat-square)
@@ -62,7 +52,7 @@ Welcome to my GitHub profile. I’m a tech enthusiast passionate about building 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 
-### **Frameworks & HPC Tools**
+### **Frameworks & Tools**
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-orange?logo=scikit-learn&logoColor=white&style=flat-square)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-red?logo=pytorch&logoColor=white&style=flat-square)
 ![CUDA](https://img.shields.io/badge/-CUDA-76B900?logo=nvidia&logoColor=white&style=flat-square)
