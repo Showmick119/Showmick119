@@ -43,10 +43,6 @@ Welcome to my GitHub profile. I’m a tech enthusiast passionate about building 
 
 ---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Showmick119&show_icons=true)
-
----
-
 ## 🔧 Technical Skills
 ### **Languages**
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat-square)
