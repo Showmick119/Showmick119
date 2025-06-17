@@ -14,35 +14,6 @@ Welcome to my GitHub profile. I’m a tech enthusiast passionate about building 
 
 ---
 
-## 🚀 Projects
-### ♻️ [CarbonLens](https://github.com/Showmick119/CarbonLens.git)
-- **Description**: An AI-powered dashboard analyzing the sustainability of automotive manufacturers.
-- **Tech Stack**: Python, Matplotlib, Pandas, Streamlit, Hugging Face Transformers.
-- **Key Features**:
-  - Sustainability score generation using ML models.
-  - Advanced data visualizations and time-series analysis.
-  - NLP sentiment analysis from Reddit discussions and manufacturer sustainability reports.
-
-### 🦕 [JurassIQ](https://github.com/Showmick119/JurrasIQ)  
-- **Description**: An AI-powered archaeology platform that assists excavation planning and fossil analysis using machine learning and geospatial intelligence.  
-- **Tech Stack**: TensorFlow, YOLOv11, Python, OpenCV, Streamlit.  
-- **Key Features**:  
-  - Built a model to predict fossil-rich excavation hotspots based on geospatial and historical data.  
-  - Generated structured excavation plans, estimating cost, logistics, and duration.  
-  - Fine-tuned MobileNetV2 on synthetic and real fossil datasets to classify species and assess value.  
-  - Visualized over 240,000 excavation data points on an interactive world map.
-
-### 🧑‍🎓 [ClassLinker](https://github.com/Showmick119/ClassLinker)  
-- **Description**: A web app that connects Georgia Tech students based on their class schedules to promote academic collaboration.  
-- **Tech Stack**: React.js, Django, PostgreSQL, JavaScript, WebSockets.  
-- **Key Features**:  
-  - Allows students to input schedules, find classmates, and join class-specific chatrooms.  
-  - Real-time messaging system for study groups and project discussions.  
-  - Backend built with Django and PostgreSQL to manage schedule and chat data.  
-  - Planned expansion for a friend system to compare schedules and coordinate sessions.
-
----
-
 ## 🔧 Technical Skills
 ### **Languages**
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat-square)
