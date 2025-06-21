@@ -14,11 +14,6 @@ Welcome to my GitHub profile. I’m a tech enthusiast passionate about building 
 
 ---
 
-## 📊 GitHub Stats
-[![Showmick's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Showmick119)](https://github.com/LordDashMe/github-contribution-stats/)
-
----
-
 ## 🔍 Beyond Code
 - ⚽ Sports enthusiast following Soccer, Cricket, NBA and UFC.
 - ✈️ Passionate traveler exploring cultures and cuisines.
