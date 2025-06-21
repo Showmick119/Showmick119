@@ -15,7 +15,7 @@ Welcome to my GitHub profile. I’m a tech enthusiast passionate about building 
 ---
 
 ## 📊 GitHub Stats
-[![Jeet's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Showmick119)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Showmick's Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Showmick119)](https://github.com/LordDashMe/github-contribution-stats/)
 
 <img src="https://github.com/user-attachments/assets/c10e8ebf-5193-4e06-b91f-8619035b0287" width="400" height="200" />
 
