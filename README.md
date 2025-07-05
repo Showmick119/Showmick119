@@ -2,7 +2,7 @@
 
 🎓 **Undergraduate at Georgia Tech** | 💻 **Aspiring Machine Learning Engineer** | 🌍 **Passionate about Sustainability and Innovation**
 
-Welcome to my GitHub profile. I’m a tech enthusiast passionate about building impactful applications involving Machine Learning and High Performance Computing.
+Welcome to my GitHub profile. I’m a tech enthusiast passionate about building applications involving Machine Learning and High Performance Computing.
 
 ---
 
