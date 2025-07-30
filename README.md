@@ -14,11 +14,6 @@ Welcome to my GitHub profile. I’m a tech enthusiast passionate about building 
 
 ---
 
-## 📊 GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Showmick119&show_icons=true&locale=en" alt="Showmick119" /></p>
-
----
-
 ## 🔍 Beyond Code
 - ⚽ Sports enthusiast following Soccer, Cricket, NBA and UFC.
 - ✈️ Passionate traveler exploring cultures and cuisines.
