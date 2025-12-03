@@ -1,7 +1,7 @@
 **tl;dr**
-* CS sophomore at Georgia Tech studying machine learning and system architecture
-* currently building KV cache optimization frameworks and distributed training pipelines at GT's Systems for AI Lab
-* prev open-sourced NeurIPS & IEEE published time-series research at GT's AI Lab
-* prev integrated MCP & Qwen3 LLM into Apache's $5M NSF-funded research platform
-* prev contributed to OpenAI's Python SDK fixing critical memory leaks during high-volume batch uploads
-* enjoy sports (soccer, cricket, NBA, UFC) & poker
+* cs sophomore at georgia tech studying machine learning and systems architecture
+* currently building kv cache optimization frameworks and distributed training pipelines at gt's systems for ai lab
+* prev open-sourced neurips & ieee published time-series research at gt's ai lab
+* prev integrated mcp & qwen3 llm into apache's $5M nsf-funded research platform
+* prev contributed to openai's python sdk fixing critical memory leaks during high-volume batch uploads
+* enjoy sports (soccer, cricket, nba, ufc) & poker
