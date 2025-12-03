@@ -1,15 +1,15 @@
 # Hi, I'm Showmick Das.
+🎓 **CS Junior at Georgia Tech** | 🤖 **ML Systems & Infrastructure Engineer** | 🚀 **Open Source Contributor**
 
-🎓 **Undergraduate at Georgia Tech** | 💻 **Aspiring Machine Learning Engineer** | 🌍 **Passionate about Sustainability and Innovation**
-
-Welcome to my GitHub profile. I’m a tech enthusiast passionate about building applications involving Machine Learning and High Performance Computing.
+Welcome to my GitHub profile. I'm a researcher and engineer passionate about building scalable ML systems, optimizing large language models, and advancing AI infrastructure.
 
 ---
 
 ## 🧑‍💻 About Me
-- 🌟 **Current Focus**: Building data-driven platforms, AI-powered tools and conducting ML Research.
-- 🌍 **Passionate About**: Sustainability, AI for Good, and innovative research.
-- 🎯 **Goal**: To merge my technical skills with impactful projects that make a difference.
+- 🌟 **Current Focus**: ML systems optimization, distributed training, and LLM infrastructure at GT's Systems for AI Lab.
+- 🔬 **Research**: Open-sourced NeurIPS & IEEE published research on time-series forecasting, building production ML systems.
+- 🛠️ **Open Source**: Contributing to OpenAI's Python SDK and Apache Software Foundation projects.
+- 🎯 **Goal**: To build high-performance ML infrastructure that scales to billions of users.
 - 📫 **Let's Connect**: [LinkedIn](https://www.linkedin.com/in/showmick-das/) | [Email](mailto:sdas412@gatech.edu)
 
 ---
@@ -17,6 +17,6 @@ Welcome to my GitHub profile. I’m a tech enthusiast passionate about building 
 ## 🔍 Beyond Code
 - ⚽ Sports enthusiast following Soccer, Cricket, NBA and UFC.
 - ✈️ Passionate traveler exploring cultures and cuisines.
-- 📚 Always learning new tech and frameworks to stay ahead.
+- 📚 Always learning new systems and frameworks to stay ahead.
 
 ---
