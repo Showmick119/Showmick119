@@ -4,4 +4,4 @@
 * prev contributed to openai's python sdk fixing critical memory leaks during high-volume batch uploads
 * prev built kv cache optimization frameworks and co-authored emnlp paper at gt's systems for ai lab
 * prev open-sourced neurips published research on foundational time-series modelling at gt's ai lab
-* enjoy lifting, running, sports (nba, ufc, f1, soccer, cricket), hip-hop, r&b, edm
+* enjoy lifting, running, sports (ufc, soccer, nba, f1, cricket), hip-hop, r&b, edm
